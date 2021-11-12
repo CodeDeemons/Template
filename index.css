@@ -1,0 +1,72 @@
+#header {
+    background: rgb(52, 58, 64)
+}
+
+.nav-item a {
+    color: white;
+}
+
+.dropdown-menu a {
+    color: black;
+}
+
+#jumbo-footer {
+    background-image: linear-gradient(to right, hotpink, orangered)
+}
+
+#jumbo-footer h3 {
+    text-align: center;
+}
+
+.code {
+    transition: box-shadow .3s;
+}
+
+.code:hover {
+    box-shadow: 7px 7px 10px grey;
+}
+
+.html {
+    transition: box-shadow .3s;
+}
+
+.html:hover {
+    box-shadow: 7px 7px 10px grey;
+}
+
+.php {
+    transition: box-shadow .3s;
+}
+
+.php:hover {
+    box-shadow: 7px 7px 10px grey;
+}
+
+.key {
+    transition: box-shadow .3s;
+}
+
+.key:hover {
+    box-shadow: 7px 7px 10px grey;
+}
+
+ul {
+    box-sizing: border-box;
+}
+
+li {
+    list-style-type: none;
+}
+
+li a {
+    color: blue;
+}
+
+#footer {
+    height: 60px;
+    color: black;
+}
+
+#footer span {
+    color: blue;
+}
